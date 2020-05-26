@@ -1,6 +1,6 @@
 <?php
 
-namespace Jundayw/LaravelFilesystemFtpProvider;
+namespace Jundayw\LaravelFilesystemFtpProvider;
 
 use League\Flysystem\Adapter\Ftp as FtpAdapter;
 
