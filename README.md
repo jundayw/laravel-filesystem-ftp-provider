@@ -5,7 +5,4 @@ composer require jundayw/laravel-filesystem-ftp-provider
 ````
 
 # 使用方法
-add the ServiceProvider to the providers array in config/app.phpx
-````
-Jundayw\LaravelFilesystemFtpProvider\FilesystemFtpServiceProvider::class
-````
+authentication package that is simple and enjoyable to use.

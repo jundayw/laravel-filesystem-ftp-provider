@@ -16,5 +16,12 @@
         "psr-4": {
             "Jundayw\\LaravelFilesystemFtpProvider\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jundayw\\LaravelFilesystemFtpProvider\\FilesystemFtpServiceProvider"
+            ]
+        }
     }
 }
